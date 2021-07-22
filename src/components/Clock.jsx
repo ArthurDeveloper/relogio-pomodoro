@@ -28,17 +28,6 @@ export default function Clock() {
 
   let [longRestMinutes, longRestSeconds] = currentLongRestTime.split(':');
 
-
-  // Inicializando notificador
-  (async () => {
-    try {
-      const initialized = await Notifier.init();
-    } catch (Error) {
-
-    }
-  })();
-
-
   useEffect(() => {
     setCurrentTime(timer);
   }, [timer]);

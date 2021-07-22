@@ -1,5 +1,6 @@
 import Helmet from 'react-helmet';
 import '../styles/App.css';
+import Notifier from './Notifier';
 import ClockProvider from './ClockProvider';
 import Clock from './Clock';
 
