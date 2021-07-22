@@ -1,0 +1,31 @@
+form {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+input[type="number"] {
+    width: 30px;
+}
+
+button {
+    align-self: flex-start;
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 25px;
+    border: none;
+    color: #FFFFFF;
+    background-image: linear-gradient(150deg, #DB27D8 12%, #4226d1);
+}
+
+form > div {
+    margin-right: 30px;
+}
+
+input[type="time"] {
+    font-family: 'Helvetica', sans-serif;
+}

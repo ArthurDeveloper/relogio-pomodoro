@@ -1,0 +1,40 @@
+#clock-settings {
+    width: 70%;
+    height: 75%;
+    background-color: white;
+    border-radius: 10px;
+}
+  
+#clock-title {
+  margin-left: 50px;
+  margin-top: 40px;
+  font-size: 2.5em;
+}
+
+#clock-how-to-use-advice {
+  margin-left: 50px;
+  margin-top: 40px;
+  font-size: 1em;
+  font-weight: 100;
+  color: #C4C4C4;
+}
+
+#clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* width: 100%; */
+  height: 50%;
+}
+
+#clock {
+  background-image: linear-gradient(150deg, #db27d8 12%, #4226d1);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  height: 50%;
+  font-size: 7.5em;
+  border-radius: 150px;
+}
