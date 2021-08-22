@@ -1,8 +1,8 @@
 #clock-settings {
-    width: 70%;
-    height: 75%;
-    background-color: white;
-    border-radius: 10px;
+  width: 70%;
+  height: 75%;
+  background-color: white;
+  border-radius: 10px;
 }
   
 #clock-title {
@@ -23,7 +23,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* width: 100%; */
   height: 50%;
 }
 
@@ -33,8 +32,36 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 40%;
+  width: 350px;
   height: 50%;
   font-size: 7.5em;
   border-radius: 150px;
+}
+
+@media (max-width: 680px) {
+  #clock-settings {
+    width: 95vw;
+    height: 85vh;
+  }
+
+  #clock {
+    width: 295px;
+    font-size: 6.2em;
+  }
+}
+
+@media (max-width: 576px) {
+  #clock-title, #clock-how-to-use-advice {
+    margin-left: 20px;
+  }
+
+  #clock-container {
+    height: 27%;
+  }
+
+  #clock {
+    width: 200px;
+    height: 53%;
+    font-size: 4.7em;
+  }
 }

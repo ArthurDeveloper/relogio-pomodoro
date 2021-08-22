@@ -11,6 +11,8 @@ export default function App() {
 
       <Helmet>
         <title>Relógio pomodoro</title>
+        <meta name="keywords" content="pomodoro, relógio, estudos"/>
+        <meta name="description" content="Um relógio para auxiliar no ciclo do pomodoro" />
       </Helmet>
 
       <div className="centered">
