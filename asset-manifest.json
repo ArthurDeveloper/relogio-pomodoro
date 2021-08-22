@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/relogio-pomodoro/static/css/main.ceda59f9.chunk.css",
-    "main.js": "/relogio-pomodoro/static/js/main.e5f35227.chunk.js",
-    "main.js.map": "/relogio-pomodoro/static/js/main.e5f35227.chunk.js.map",
+    "main.css": "/relogio-pomodoro/static/css/main.fbb93703.chunk.css",
+    "main.js": "/relogio-pomodoro/static/js/main.51020b79.chunk.js",
+    "main.js.map": "/relogio-pomodoro/static/js/main.51020b79.chunk.js.map",
     "runtime-main.js": "/relogio-pomodoro/static/js/runtime-main.f31259d3.js",
     "runtime-main.js.map": "/relogio-pomodoro/static/js/runtime-main.f31259d3.js.map",
     "static/js/2.91b36ca3.chunk.js": "/relogio-pomodoro/static/js/2.91b36ca3.chunk.js",
     "static/js/2.91b36ca3.chunk.js.map": "/relogio-pomodoro/static/js/2.91b36ca3.chunk.js.map",
     "index.html": "/relogio-pomodoro/index.html",
-    "static/css/main.ceda59f9.chunk.css.map": "/relogio-pomodoro/static/css/main.ceda59f9.chunk.css.map",
+    "static/css/main.fbb93703.chunk.css.map": "/relogio-pomodoro/static/css/main.fbb93703.chunk.css.map",
     "static/js/2.91b36ca3.chunk.js.LICENSE.txt": "/relogio-pomodoro/static/js/2.91b36ca3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f31259d3.js",
     "static/js/2.91b36ca3.chunk.js",
-    "static/css/main.ceda59f9.chunk.css",
-    "static/js/main.e5f35227.chunk.js"
+    "static/css/main.fbb93703.chunk.css",
+    "static/js/main.51020b79.chunk.js"
   ]
 }
